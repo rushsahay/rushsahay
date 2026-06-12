@@ -27,7 +27,7 @@
 
 <h3>Personal Projects:</h3>
 <p align="left">
-  <a href="https://github.com/rushsahay/ROS2_Arm_Sim"><b>ROS2 - 2 DOF Arm Simulation</b></a>
+  <a href="https://github.com/rushsahay/ROS2_Arm_Sim"><b>ROS2 - 3 DOF Arm Simulation</b></a>
 </p>
 <ul>
   <li>Custom Inverse Kinematics Implementation</li>
